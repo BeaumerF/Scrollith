@@ -1,0 +1,20 @@
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\Scrollith.exe.config
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\Scrollith.XML
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\Scrollith.exe
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\Scrollith.pdb
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\FSharp.Core.dll
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\System.ValueTuple.dll
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\FSharp.Core.xml
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\obj\Debug\Scrollith.exe
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith\Scrollith\obj\Debug\Scrollith.pdb
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\Scrollith.exe.config
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\Scrollith.XML
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\Scrollith.exe
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\Scrollith.pdb
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\FSharp.Core.dll
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\System.ValueTuple.dll
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\FSharp.Core.xml
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\obj\Debug\Scrollith.exe
+C:\Users\FrBea\Documents\Visual Studio 2017\Projects\Scrollith - Copie\Scrollith\obj\Debug\Scrollith.pdb
