@@ -173,44 +173,5 @@ let init_game =
         
 
         //printfn "%A" my2DArray
-        //Thread.Sleep(1000)
         Thread.Sleep(100)
-    0    
-
-//let rec loop score =
-//    Console.Clear()
-//    printfn "%A" my2DArray
-//    Thread.Sleep(1000)
-//    let mutable score <- score + 1
-
-
-//let last score : int =
-//while continueLooping = true do
-    
-//    //made map
-
-//    while Console.KeyAvailable = false && continueLooping = true do
-//        Array2D.set my2DArray pos.y pos.x 0
-//        Array2D.set my2DArray pos.y (pos.x - 1) 0
-//        pos.x <- pos.x + switch.x
-//        pos.y <- pos.y + switch.y
-//        switch.x <- switch.x - switch.x
-//        switch.y <- switch.y - switch.y
-//        if pos.y <= 0 || pos.y >= table - 1 || pos.x <= 0 || pos.x >= table - 1 || (Array2D.get my2DArray pos.y pos.x <> 0 && first_tour = false) then
-//            continueLooping <- false
-//        else 
-//            Array2D.set my2DArray pos.y pos.x 2
-//            Array2D.set my2DArray pos.y (pos.x - 1) 4
-//            //Console.Clear()
-//            printfn "%A" my2DArray
-//            Thread.Sleep(1000)
-//    if Console.KeyAvailable = true then
-//        first_tour <- false
-//        let key_info = Console.ReadKey(true).Key
-//        if key_info = ConsoleKey.Z || key_info = ConsoleKey.UpArrow then
-//            switch.y <- switch.y - 1
-//        else if key_info = ConsoleKey.S || key_info = ConsoleKey.DownArrow then
-//            switch.y <- switch.y + 1
-    
-//printfn"input one letter : "
-//Console.ReadKey() |> ignore             
+    0
