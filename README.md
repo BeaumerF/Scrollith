@@ -15,3 +15,12 @@
 
 # Scrollith
 Horizontal side-scrolling shooting game
+
+## Why this project ?
+Interested in Microsoft technologies, I wanted to learn F# and discover Functional Programming with a first project, this one.
+
+## To do
+- [ ] moving enemies
+
+## Can I help you?
+Of course ! By hitting the :star: button !
