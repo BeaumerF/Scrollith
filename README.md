@@ -16,6 +16,8 @@
 # Scrollith
 Horizontal side-scrolling shooting game
 
+![demo](https://github.com/BeaumerF/Scrollith/blob/master/Scrollith/img/demo.gif)
+
 ## Why this project ?
 Interested in Microsoft technologies, I wanted to learn F# and discover Functional Programming with a first project, this one.
 
